@@ -12,7 +12,13 @@ id that MET are using.
 
 However, you will find that the Amedia icons have taken another visual approach on how to differ sleet from snow. Feel free to compare our icons to the MET icons (http://api.met.no/weatherapi/weathericon/1.1/documentation). We think ours looks really nice.
 
-### Polar night
+The icons are organized in three different folders:
+
+* day - Keeping a full set of icons for daylight
+* night - Keeping a full set of icons for night time
+* polar - Keeping a full set of icons for polar night
+
+### Polar night support
 
 We have full support for all polar night icons, which makes the set stand out from a lot of other icon sets you will find online.
 

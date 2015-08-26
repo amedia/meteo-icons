@@ -1,6 +1,6 @@
 # meteo-icons
 
-The Amedia Weather Icons will be made available to the public under a Creatice Commons license (Decided by Elisabeth Svendby and Jakob Vad Nielsen). This repository will host the
+The Amedia Weather Icons will be made available to the public under a Creative Commons license (Decided by Elisabeth Svendby and Jakob Vad Nielsen). This repository will host the
 svg versions of the icons.
 
 Suggested license: http://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,5 +1,7 @@
 # meteo-icons
 
+<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icon.png?token=AAArCJ3oQUyK_SVDWzxgTeU8BkvpOMfHks5V516_wA%3D%3D" />
+
 The Amedia Weather Icons will be made available to the public under a Creative Commons license (Decided by Elisabeth Svendby and Jakob Vad Nielsen). This repository will host the
 svg versions of the icons.
 

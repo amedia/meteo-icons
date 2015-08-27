@@ -1,4 +1,4 @@
-# meteo-icons
+# Amedia Weather Icons (meteo-icons)
 
 <img align="right" src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icon.png?token=AAArCJ3oQUyK_SVDWzxgTeU8BkvpOMfHks5V516_wA%3D%3D" /> These icons are 100% compatible with the weather api from http://api.met.no. The icons are named with the same id as the symbol
 id that MET are using. 

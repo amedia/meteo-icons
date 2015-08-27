@@ -1,6 +1,6 @@
 # Amedia Weather Icons (meteo-icons)
 
-<img align="right" src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icon.png?token=AAArCJ3oQUyK_SVDWzxgTeU8BkvpOMfHks5V516_wA%3D%3D" /> These icons are made public avilable under a Creative Common license (See license details below).
+<img align="right" src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icon.png?token=AAArCJ3oQUyK_SVDWzxgTeU8BkvpOMfHks5V516_wA%3D%3D" /> These icons are made public available under a Creative Common license (See license details below).
 
 The icons are compatible with the weather data from  the Norwegian Meteorological Institute weather api.
 However, you will find that our icons have taken another visual approach on how to differ sleet from snow. Feel free to compare our icons to the [MET icons](http://api.met.no/weatherapi/weathericon/1.1/documentation). We think ours looks really nice.

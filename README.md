@@ -68,7 +68,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ### Day
 
-<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icons/standard/preview-day.png" />
+<img src="https://github.com/amedia/meteo-icons/blob/master/icons/standard/preview-day.png" />
 
 ### Night
 

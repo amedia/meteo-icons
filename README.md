@@ -68,12 +68,12 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ### Day
 
-<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icons/standard/preview-day.png?token=AAArCNazdqbDAbN4JOzel9R-McRnDs1Pks5V6GGSwA%3D%3D" />
+<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icons/standard/preview-day.png" />
 
 ### Night
 
-<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icons/standard/preview-night.png?token=AAArCMa0mFzes8GRMPjJ6cU7ki8uWH89ks5V6GGowA%3D%3D" />
+<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icons/standard/preview-night.png" />
 
 ### Polar
 
-<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icons/standard/preview-polar.png?token=AAArCCenJ71Pn0Eo9rfHnaohTUfCD0Keks5V6GG8wA%3D%3D" />
+<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icons/standard/preview-polar.png" />

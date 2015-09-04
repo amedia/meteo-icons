@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/amedia/meteo-icons/blob/master/icon.png" /> These icons are made public available under a Creative Common license (See license details below).
 
-We have implemented all the symbols you get out of the weather data api from the Norwegian Meteorological Institute. And our icon id's match the symbol id's in that api. However, you will find that our icons have taken another visual approach on some of the icons. Feel free to compare our icons to the [MET icons](http://api.met.no/weatherapi/weathericon/1.1/documentation). We think ours looks really nice.
+We have implemented all the symbols you get out of the weather data api from the Norwegian Meteorological Institute. And our icon id's match the symbol id's in that api. However, you will find that our icons have taken another visual approach on some of the icons. Feel free to compare our icons to the [MET icons](http://api.met.no/weatherapi/weathericon/1.1/documentation). 
 
 The icons are organized in three different folders:
 

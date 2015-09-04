@@ -72,8 +72,8 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ### Night
 
-<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icons/standard/preview-night.png" />
+<img src="https://github.com/amedia/meteo-icons/blob/master/icons/standard/preview-night.png" />
 
 ### Polar
 
-<img src="https://raw.githubusercontent.com/amedia/meteo-icons/master/icons/standard/preview-polar.png" />
+<img src="https://github.com/amedia/meteo-icons/blob/master/icons/standard/preview-polar.png" />

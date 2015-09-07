@@ -16,7 +16,7 @@ We have full support for all polar night icons, which makes the set stand out fr
 
 ### Wind icon
 
-<img src="https://github.com/amedia/meteo-icons/blob/master/icons/wind/weather-wind-arrow.png" /><br/>
+<img align="right" width="20" height="20" src="https://github.com/amedia/meteo-icons/blob/master/icons/wind/weather-wind-arrow.png" /><br/>
 We have also added a wind icon recently. You can use CSS to rotate the arrow in the position you want.
 
 ```css

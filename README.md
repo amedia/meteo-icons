@@ -14,6 +14,18 @@ The icons are organized in three different folders:
 
 We have full support for all polar night icons, which makes the set stand out from a lot of other icon sets you will find online.
 
+### Wind icon
+
+We have also added a wind icon recently. You can use CSS to rotate the arrow in the position you want.
+
+```css
+#myimg {
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+}
+```
+
 ## License
 
 http://creativecommons.org/licenses/by-nc-sa/4.0/

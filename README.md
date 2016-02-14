@@ -4,14 +4,6 @@ Team: Content
 ---
 <!--(Maintained Duplo labels above. Read more on http://info.api.no/handbook/guidelines/GitHub-guidelines.html)-->
 
-<!--(Maintained Duplo labels above. Read more on http://info.api.no/handbook/guidelines/GitHub-guidelines.html)-->
-
-<!--(Maintained Duplo labels above. Read more on http://info.api.no/handbook/guidelines/GitHub-guidelines.html)-->
-
-<!--(Maintained Duplo labels above. Read more on http://info.api.no/handbook/guidelines/GitHub-guidelines.html)-->
-
-<!--(Maintained Duplo labels above. Read more on http://info.api.no/handbook/guidelines/GitHub-guidelines.html)-->
-
 # Amedia Weather Icons (meteo-icons)
 
 <img align="right" src="https://github.com/amedia/meteo-icons/blob/master/icon.png" /> These icons are made public available under a Creative Common license (See license details below).

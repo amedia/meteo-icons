@@ -1,8 +1,3 @@
----
-Team: Content
-
----
-<!--(Maintained Duplo labels above. Read more on http://info.api.no/handbook/guidelines/GitHub-guidelines.html)-->
 
 # Amedia Weather Icons (meteo-icons)
 

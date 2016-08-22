@@ -1,5 +1,5 @@
 
-# Amedia Weather Icons (meteo-icons)
+# Amedia Weather Icons
 
 <img align="right" src="https://github.com/amedia/meteo-icons/blob/master/icon.png" /> These icons are made public available under a Creative Common license (See license details below).
 
